@@ -4,7 +4,7 @@ Created a simple Java Servlet with HTML file that handles a doPost() request. La
 
 To run html:
 
-1) Download Tomcat Apache
+1) Have Tomcat Apache installed on your local machine
 2) Clone this repository
 3) Copy it to 'webapps' folder in Tomcat files
 4) Start tomcat by running ./startup.sh in bin folder
