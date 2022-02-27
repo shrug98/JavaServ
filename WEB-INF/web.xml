@@ -1,0 +1,11 @@
+<web-app>
+<servlet>
+	<servlet-name>echoName</servlet-name>
+	<servlet-class>echoName</servlet-class>
+</servlet>
+
+<servlet-mapping>
+	<servlet-name>echoName</servlet-name>
+	<url-pattern>/echoName</url-pattern>
+</servlet-mapping>
+</web-app>
